@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Sevimli TV App</title>
+        <description>Most recent updates to Sevimli TV App</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0+1</title>
+            <appId>com.sevimlilavash.sevimlitvapp</appId>
+            <description>
+                 <ul> 
+                        <li>Auto update Sevimli TV App</li>
+                        <li>Sevimli TV App</li>
+                    </ul> 
+            </description>
+            <pubDate>25-02-2025</pubDate>
+            <enclosure url="https://github.com/shahriyorabduraxmon/sevimli+tv_app_update/releases/download/Work/dwed_work_new_ui-1.0.10+1-windows-setup.exe"
+                sparkle:dsaSignature="MD0CHQDKkNLGFbOIHhqlLTmQLLBoAuk1v/ss9UlArsSDAhxezVXyeYa8xSJgezdJvalsFs79NXFIY9lYSJyS"
+                sparkle:version="1.0.0+1"
+                sparkle:os="windows"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
