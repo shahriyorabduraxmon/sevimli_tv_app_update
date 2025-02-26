@@ -5,7 +5,7 @@
         <description>Most recent updates to Sevimli TV App</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.2</title>
             <appId>sevimli_tv_app</appId>
             <description>
                  <ul> 
@@ -14,9 +14,9 @@
                     </ul> 
             </description>
             <pubDate>25-02-2025</pubDate>
-            <enclosure url="https://github.com/shahriyorabduraxmon/sevimli_tv_app_update/releases/download/Work/sevimli_tv_app-1.0.1+1.0.1-windows-setup.exe"
+            <enclosure url="https://github.com/shahriyorabduraxmon/sevimli_tv_app_update/releases/download/Work/sevimli_tv_app-1.0.2+1.0.2-windows-setup.exe"
                 sparkle:dsaSignature="MD0CHQDKkNLGFbOIHhqlLTmQLLBoAuk1v/ss9UlArsSDAhxezVXyeYa8xSJgezdJvalsFs79NXFIY9lYSJyS"
-                sparkle:version="1.0.1"
+                sparkle:version="1.0.2"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
